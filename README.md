@@ -12,3 +12,5 @@
   - matplotlib==3.10.6
   - seaborn==0.13.2
   - notebook==7.4.5
+  - xgboost==3.0.1
+  - catboost==1.2.8
